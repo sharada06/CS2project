@@ -5,6 +5,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 System.out.println("hello world");
 System.out.println("it works");
+System.out.println("age=17");
 
 	}
 
